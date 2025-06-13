@@ -1,6 +1,6 @@
-# linluwi a
-pali lon *2025-06-14*.
-
+---
+title: lipu tomo
+desc: lipu ni li lipu tomo li lipu suli nanpa wan
 ---
 
 lon lipu ni la mi wile pali e lipu linluwi
