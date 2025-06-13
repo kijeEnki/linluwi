@@ -1,7 +1,6 @@
 ---
 title: lipu tomo
-desc: lipu ni li lipu tomo li lipu suli
-nanpa wan
+desc: lipu ni li lipu tomo li lipu suli nanpa wan
 ---
 
 lon lipu ni la mi wile pali e lipu linluwi
