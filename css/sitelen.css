@@ -8,11 +8,11 @@
 	src: url("/linluwi/fonts/ffx.ttf"), local("fairfax pona hd");
 }
 
-:lang("tok") * {
+:lang("tok") {
 	font-family: "sitelen seli kiwen", "fairfax";
 	letter-spacing: 0;
 }
 
-:lang("tok") .hero-unit h1 {
-	letter-spacing: 0;
+.hero-unit h1:lang("tok")  {
+	letter-spacing: 0 !important;
 }

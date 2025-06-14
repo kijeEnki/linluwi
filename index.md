@@ -6,7 +6,10 @@ lang: tok
 ## lipu ali
 
 ### [META]
+
 * lipu ni
 * [ni li seme](about.md)
+
 ### toki
+
 * [REFORMS](reforms)
