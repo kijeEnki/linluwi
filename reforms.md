@@ -15,7 +15,7 @@ the problem with this reform is that different accents pronounce words different
 
 ther ar five total steps in that reform. the other four ar mor extreme, so i’m criticizing those as well.
 
-dropping useless *e*s is mor-or-less fair, (or should it be “fer”? i hav /ɛː/ ther.) but, don’t get me wrong, seeing a *v* or a *z* at the end of words without an *e* looks very bizarr. an edge case for this rule would be the word “edge”: *dg* is always /ʤ/, however it is usually followd by an *e*
+dropping useless *e*s is mor-or-less fair, (or should it be “fer”? i hav /ɛː/ ther.) but, don’t get me wrong, seeing a *v* or a *z* at the end of words without an *e* looks very bizarr. an edge case for this rule would be the word “edge”: *dg* is always /ʤ/, however it is usually followd by an *e*.
 
 replacing *ph* with *f* is definitly a bad idea. *ph* in a word shows its etymology, and shows that thát word coms from greek. if we’r removing one etymological featur, it would make mor sens to remov mor. let’s replace “physical” with “fizzicle”! it looks more badass, that’s for tru.
 
