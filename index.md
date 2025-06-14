@@ -1,9 +1,12 @@
 ---
 title: lipu tomo
-desc: lipu ni li lipu tomo li lipu suli nanpa wan
+desc: lipu ni la ken lukin e lipu ali ante
 ---
 
-lon lipu ni la mi wile pali e lipu linluwi
-kepeken nasin [M↓]. mi wile e ni
-tan ni: nasin lipu ante (html) li
-ike&nbsp;tawa&nbsp;mi…
+kama pona!
+
+***
+
+## lipu ali
+* [index](index.md) (ni li lipu ni)
+* ⋱ (tenpo ni la lipu ante li lon ala)
