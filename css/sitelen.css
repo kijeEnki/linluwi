@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "sitelen seli kiwen";
+	src: url("/linluwi/fonts/ssk.ttf"), local("sitelen seli kiwen mono asuki");
+}
+
+@font-face {
+	font-family: "fairfax";
+	src: url("/linluwi/fonts/ffx.ttf"), local("fairfax pona hd");
+}
+
+*[lang="tok"] {
+	font-family: "sitelen seli kiwen", "fairfax";
+}
