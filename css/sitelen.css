@@ -10,4 +10,9 @@
 
 *[lang="tok"] {
 	font-family: "sitelen seli kiwen", "fairfax";
+	letter-spacing: 0;
+}
+
+.hero-unit h1[lang="tok"] {
+	letter-spacing: 0;
 }
