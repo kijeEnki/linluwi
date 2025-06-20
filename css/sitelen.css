@@ -9,7 +9,16 @@
 }
 
 :lang(tok) {
-	font-family: "sitelen seli kiwen", "fairfax";
+	font-family: "sitelen seli kiwen",
+	Apple Color Emoji,
+	Segoe UI Emoji,
+	Segoe UI Symbol,
+	"fairfax",
+	Menlo,
+	Consolas,
+	Monaco,
+	Lucida Console,
+	monospace;
 	letter-spacing: 0;
 }
 
