@@ -4,7 +4,7 @@ desc: lipu ni li lipu tomo li lipu suli nanpa wan
 lang: tok
 ---
 
-ni li lipu linluwi enki nanpa 1½  
+ni li lipu linluwi Enki nanpa 1½  
 mi weka e nanpa wan  
 mi pali e nanpa tu  
 la nanpa meso li ni
